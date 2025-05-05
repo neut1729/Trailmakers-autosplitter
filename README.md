@@ -33,6 +33,6 @@ All screenshots need to be in the same resolution and preferably made the AutoSp
 - A screenshot of the explosion of one of the megadrills with everything but a rectangle near the bottom being transparent (look at one from the already provided files for reference), plus two copies.
 - A screenshot of the "congratulations" screen.
 
-Name all these images according to the naming scheme from the already provided files, and you should have working autosplit images.
+Name all these images according to the naming scheme from the already provided files, for the "Oh, you're finally awake!" image you might have change the `0.75` to another value. Use the Similarity viewer in AutoSplit to see the live value when that text is on screen, and the value when it's not, if you choose a value between those it should work. If you did everything correctly, these images should now work for automatically splitting your run.
 
 ***If you do make these, please send them to me so i can add them to this page.***

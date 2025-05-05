@@ -25,7 +25,7 @@ You should now have a functioning timer that automatically starts, pauses during
 Using LiveSplit and Autosplit is fairly straight forward: Open Trailmakers and both timing programs, check if you have the right splits loaded in LiveSplit, check if AutoSplit is capturing Trailmakers and the images are loaded. If everything is in order you're ready to start your speedrun.
 
 ## Making your own autosplit images.
-To make your own autosplit images you'll need an image editing program to make them partially transparent, i recommend Krita ([download](https://krita.org/en/download/)) since it's free and decently easy to use.
+To make your own autosplit images you'll need an image editing program to make them partially transparent, i recommend Krita ([download](https://krita.org/en/download/)) since it's free and relatively easy to use.
 All screenshots need to be in the same resolution and preferably made the AutoSplit program. The images you need are:
 - A screenshot containing "Oh, you're finally awake!" textbox with everything other than that text being transparent.
 - A screenshot of the loading screen after exiting the cave, plus two copies of this image.

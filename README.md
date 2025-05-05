@@ -9,7 +9,7 @@ An autosplitter is a tool used to automatically time segments of a run, this is 
 
 \* Other split programs will probably work, but LiveSplit is the standard.
 
-\*\* If these aren't available, read how to make them yourself [here](https://github.com/neut1729/Trailmakers-autosplitter/blob/main/README.md#making-your-own-autosplit-images) Images in a different resolution might work, as i haven't tested that, but i wouldn't count on it.
+\*\* If these aren't available, read how to make them yourself [here](https://github.com/neut1729/Trailmakers-autosplitter/blob/main/README.md#making-your-own-autosplit-images). Images in a different resolution might work, as i haven't tested that, but i wouldn't count on it.
 
 ### Program setup
 1. Open LiveSplit and follow the tutorial to set it up however you want, but make sure you turn on global hotkeys (in `Settings`).

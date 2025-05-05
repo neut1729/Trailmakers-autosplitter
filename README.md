@@ -9,7 +9,7 @@ An autosplitter is a tool used to automatically time segments of a run, this is 
 
 \* Other split programs will probably work, but LiveSplit is the standard.
 
-\*\* Images in a resolution might work, as i haven't tested that, but i wouldn't count on it.
+\*\* Images in a different resolution might work, as i haven't tested that, but i wouldn't count on it.
 
 ### Program setup
 1. Open LiveSplit and follow the tutorial to set it up however you want, but make sure you turn on global hotkeys (in `Settings`).
@@ -24,8 +24,8 @@ You should now have a functioning timer that automatically starts, pauses during
 ## Using the programs.
 Using LiveSplit and Autosplit is fairly straight forward: Open Trailmakers and both timing programs, check if you have the right splits loaded in LiveSplit, check if AutoSplit is capturing Trailmakers and the images are loaded. If everything is in order you're ready to start your speedrun.
 
-## My resolution is not among the provided autosplit image folders.
-If this is the case, you'll have to make your own images. You'll need an image editing program for some of them, i recommend Krita ([download](https://krita.org/en/download/)) since it's free and decently easy to use.
+## Making your own autosplit images.
+To make your own autosplit images you'll need an image editing program to make them partially transparent, i recommend Krita ([download](https://krita.org/en/download/)) since it's free and decently easy to use.
 All screenshots need to be in the same resolution and preferably made the AutoSplit program. The images you need are:
 - A screenshot containing "Oh, you're finally awake!" textbox with everything other than that text being transparent.
 - A screenshot of the loading screen after exiting the cave, plus two copies of this image.
